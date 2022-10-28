@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "free-nav-bar": "/components/free-ui/free-nav-bar",
+    "free-avater": "/components/free-ui/free-avater",
+    "free-divider": "/components/free-ui/free-divider",
+    "free-list-item": "/components/free-ui/free-list-item",
+    "free-icon-button": "/components/free-ui/free-icon-button",
+    "free-popup": "/components/free-ui/free-popup"
+  }
+}

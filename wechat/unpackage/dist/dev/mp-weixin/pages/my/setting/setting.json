@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "free-nav-bar": "/components/free-ui/free-nav-bar",
+    "free-divider": "/components/free-ui/free-divider"
+  }
+}
